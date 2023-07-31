@@ -57,8 +57,6 @@ public class StringManipulations {
             System.out.println("Uzunluk en az 10 karakter olmali");
         } else {
             System.out.println("Sifre basariyla kaydedildi");
-
-
             }
         }
 
